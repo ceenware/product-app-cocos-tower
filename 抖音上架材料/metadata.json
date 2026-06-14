@@ -1,0 +1,24 @@
+{
+  "platform": "douyin-mini-game",
+  "finalName": "高塔叠层挑战",
+  "softwareFullName": "高塔叠层挑战游戏软件 V1.0",
+  "softwareShortName": "高塔叠层挑战",
+  "version": "V1.0",
+  "category": "休闲益智 / 超休闲",
+  "tag": "解压",
+  "keywords": [
+    "高塔",
+    "叠层",
+    "反应",
+    "挑战",
+    "休闲"
+  ],
+  "intro": "把握时机叠放楼层，挑战更高的高塔成绩。",
+  "detail": "《高塔叠层挑战》是一款休闲堆叠类小游戏。玩家需要根据移动节奏选择合适时机放置楼层，使建筑不断向上增长。游戏考验反应能力和节奏判断，放置越准确，高塔越稳定，得分越高。",
+  "icon": "抖音上架材料/icon-600.png",
+  "status": "可准备提交",
+  "risk": "需确认原项目授权和广告、分享、排行等能力是否已经移除或合规接入。",
+  "appId": "",
+  "auditTicket": "",
+  "auditResult": ""
+}
